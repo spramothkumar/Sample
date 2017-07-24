@@ -1,0 +1,12 @@
+\.gradle/
+\.bpmn/
+\.settings/
+\.groovy/
+build/
+bin/
+.class$
+.classpath
+.project
+.orig$
+target/
+target-eclipse/
